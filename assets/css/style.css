@@ -1205,7 +1205,7 @@ section {
 #footer .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #0563bb;
+  background: #FF6C98;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1218,7 +1218,7 @@ section {
 }
 
 #footer .social-links a:hover {
-  background: #0678e3;
+  background: #FFC2D4;
   color: #fff;
   text-decoration: none;
 }
